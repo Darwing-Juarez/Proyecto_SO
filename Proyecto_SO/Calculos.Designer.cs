@@ -91,6 +91,7 @@ namespace Proyecto_SO
             this.Tabla3.RowHeadersVisible = false;
             this.Tabla3.Size = new System.Drawing.Size(148, 67);
             this.Tabla3.TabIndex = 11;
+            this.Tabla3.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Tabla3_CellContentClick);
             // 
             // Column3
             // 

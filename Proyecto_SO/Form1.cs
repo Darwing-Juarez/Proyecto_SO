@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Proyecto_SO
 {
+    //HACIENDO PRUEBAS DE GIT
     public partial class Ventana_inicio : Form
     {
         public Ventana_inicio()
